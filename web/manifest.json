@@ -1,11 +1,11 @@
 {
-    "name": "ma_premiere_application",
-    "short_name": "ma_premiere_application",
+    "name": "Quiz Culture Générale",
+    "short_name": "Quiz",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1A1A2E",
+    "theme_color": "#4CAF50",
+    "description": "Application de quiz de culture générale.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
